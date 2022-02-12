@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAgIiICAAAAICIiIiICAAAiIiIiIiIAICIiI+I+IgIgIiIiIj4j4iAiIiIiIj/iICIiIiIiPiIgIiIiIiI+IiAiIiIiIj/iICIiIiI+I8IgI+IiPj/iACAiIj4/4gIAACAiIiICAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myface"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
